@@ -1,1 +1,3 @@
-# hack3-2_1
+# hack 2_1
+
+Ejercicio aplicando propiedad Float.
