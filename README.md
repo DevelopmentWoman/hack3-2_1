@@ -2,4 +2,4 @@
 
 Ejercicio aplicando propiedad Float.
 
-https://vercel.com/developmentwoman/hack3-2-1
+https://hack3-2-1.vercel.app/
